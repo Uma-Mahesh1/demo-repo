@@ -1,3 +1,3 @@
-#Demo-repo 
+#Factorial
 
-This repo is about an intro to Git.
+Using this You can find factorial of a number.
