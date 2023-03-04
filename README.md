@@ -1,5 +1,5 @@
-#Factorial and Prime
+#calculator
 
-Following are two programs to find factorial of a number and to find whether a number is prime or not.
+The following project consits of basic arithmetic functions.
 
-##Feel free check out
+##add , sub, mul, div, abs_diff
