@@ -1,5 +1,5 @@
-#Factorial
+#Factorial and Prime
 
-Using this You can find factorial of a number.
+Following are two programs to find factorial of a number and to find whether a number is prime or not.
 
-##let's get factoriallll!
+##Feel free check out
